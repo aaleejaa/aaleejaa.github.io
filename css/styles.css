@@ -455,6 +455,17 @@ body{
     align-self: stretch;
 }
 
+.productos{
+    color: var(--brown);
+    text-align: right;
+    
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 135.664%; /* 32.559px */
+    letter-spacing: 2.88px;
+    text-transform: lowercase;
+
 .hero__8{
     display: flex;
     padding: 161px 133px;
